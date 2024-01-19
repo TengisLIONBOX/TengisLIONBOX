@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Tengis FullStack Developer from Ulaanbaatar, Mongolia<br><br>- 🔭 I’m studying at Pinecone academy<br>- 📚 I'm currently learning Typescipt</p>
+<p align="left">I'm Tengis FullStack Developer from Ulaanbaatar, Mongolia<br><br>- 🔭 I’m studying at Pinecone academy<br>- 📚 I'm currently learning React Native</p>
 
 ###
 
